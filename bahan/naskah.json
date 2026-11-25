@@ -1,0 +1,72 @@
+[
+ {
+  "id": "01-opening",
+  "bagian": "OPENING",
+  "teks": "Aplikasi kasir toko sembako yang bagus harus paham satu hal: barang di toko sembako tidak selalu dijual per bungkus. Di video ini saya review Sembako Pintar, aplikasi kasir yang dibuat khusus untuk toko sembako."
+ },
+ {
+  "id": "02-empathy",
+  "bagian": "EMPATHY",
+  "teks": "Sebagai pemilik toko, Anda melayani pembeli eceran dan pembeli grosir di hari yang sama. Ada yang beli beras setengah kilo, ada yang ambil minyak satu dus, dan semuanya ingin dilayani cepat."
+ },
+ {
+  "id": "03-problem",
+  "bagian": "PROBLEM",
+  "teks": "Masalahnya sering datang dari kebiasaan manual. Total belanja kiloan dihitung di kalkulator. Stok dicek dengan melihat rak. Catatan belanja ke supplier tersimpan di nota yang mudah hilang."
+ },
+ {
+  "id": "04-promise",
+  "bagian": "PROMISE",
+  "teks": "Sembako Pintar menyatukan kasir, stok, pembelian, dan laporan dalam satu sistem. Supaya lebih jelas, kita langsung lihat aplikasinya."
+ },
+ {
+  "id": "05-kasir",
+  "bagian": "DEMO Kasir",
+  "teks": "Pertama, layar kasir. Kasir tinggal mencari nama barang atau memindai barcode, lalu barang masuk ke keranjang. Total belanja langsung terlihat di sisi kanan, jadi antrean di depan meja kasir tetap jalan."
+ },
+ {
+  "id": "06-satuan",
+  "bagian": "DEMO Jual Kiloan",
+  "teks": "Kedua, jual kiloan. Saat beras dipilih, kasir bisa memasukkan jumlah dalam kilogram, ons, atau gram. Totalnya dihitung otomatis sesuai satuan, sehingga kasir tidak perlu menghitung manual."
+ },
+ {
+  "id": "07-master-satuan",
+  "bagian": "DEMO Satuan",
+  "teks": "Ketiga, pengaturan satuan. Pemilik toko bisa menentukan satuan apa saja yang boleh dipakai tiap produk, misalnya gram dan kilo untuk gula, atau pcs dan dus untuk air mineral. Paket grosir juga bisa diatur per satuan."
+ },
+ {
+  "id": "08-struk",
+  "bagian": "DEMO Struk",
+  "teks": "Keempat, pembayaran dan struk. Setelah pembeli membayar, kembalian langsung muncul dan struk siap dicetak ke printer kasir. Semua barang, jumlah, dan satuannya tercatat rapi di struk."
+ },
+ {
+  "id": "09-stok",
+  "bagian": "DEMO Stok",
+  "teks": "Kelima, stok otomatis. Setiap penjualan langsung mengurangi stok. Di menu stok, Anda bisa melihat barang yang mulai menipis, lalu membuka riwayatnya untuk tahu kapan barang masuk dan keluar."
+ },
+ {
+  "id": "10-pembelian",
+  "bagian": "DEMO Pembelian",
+  "teks": "Keenam, pembelian dari supplier. Barang yang datang dicatat dengan nomor nota dan nama supplier. Begitu disimpan, stok bertambah sendiri, jadi catatan belanja tidak lagi tercecer."
+ },
+ {
+  "id": "11-laporan",
+  "bagian": "DEMO Laporan",
+  "teks": "Ketujuh, laporan dan dashboard. Pemilik toko bisa melihat penjualan per hari, produk terlaris, dan perkiraan laba kotor. Kalau toko punya lebih dari satu cabang, ringkasannya juga terlihat per cabang."
+ },
+ {
+  "id": "12-recap",
+  "bagian": "RECAP",
+  "teks": "Jadi alurnya lengkap: kasir yang cepat, jual kiloan dengan satuan fleksibel, pengaturan satuan dan paket grosir, struk, stok otomatis, pembelian dari supplier, sampai laporan untuk pemilik toko."
+ },
+ {
+  "id": "13-positioning",
+  "bagian": "POSITIONING",
+  "teks": "Menurut saya, aplikasi kasir untuk toko sembako harus mengikuti cara toko itu berjualan. Kalau barangnya dijual eceran dan grosir sekaligus, aplikasinya juga harus siap untuk dua cara itu."
+ },
+ {
+  "id": "14-cta",
+  "bagian": "CTA",
+  "teks": "Kalau Anda ingin mencoba Sembako Pintar, silakan buka demo lewat tautan di deskripsi, atau chat WhatsApp kami. Nomornya ada di layar, dengan senang hati kami bantu."
+ }
+]
